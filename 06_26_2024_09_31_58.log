@@ -1,0 +1,10 @@
+INFO:__main__:Start logging at 09 : 31 : 58
+INFO:__main__:Start pipeline at 09 : 31 : 58
+ERROR:__main__:Error ossured during attempt to modify 7365159627475963168.mp4
+ERROR:__main__:Error ossurs during attempt to download video from https://www.tiktok.com/@cpr.moto/video/7362216577640467718
+ERROR:__main__:Error ossured during attempt to modify 7379722839391259911.mp4
+ERROR:__main__:Error ossured during attempt to modify 7374115277409094928.mp4
+ERROR:__main__:Error ossured during attempt to modify 7358789237136690449.mp4
+ERROR:__main__:Error ossured during attempt to modify 7375807739752221958.mp4
+ERROR:__main__:Error ossured during attempt to modify 7358244203819797765.mp4
+INFO:__main__:End pipeline at 09 : 39 : 40
